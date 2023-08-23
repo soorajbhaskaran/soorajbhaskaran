@@ -5,8 +5,8 @@
 
 <hr>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=soorajbhskrn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajbhskrn&layout=compact&theme=transparent)](https://github.com/soorajbhskrn)
+![GitHub Streak](https://streak-stats.demolab.com?user=soorajbhskrn&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajbhskrn&theme=radical&hide=html,css&layout=donut&size_weight=0.2&count_weight=0.8&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
 
 <br>
 <img src="https://gpvc.arturio.dev/soorajbhskrn" alt="profile views"> 
