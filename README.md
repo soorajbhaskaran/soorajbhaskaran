@@ -5,10 +5,10 @@
 
 <hr>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=soorajbhskrn&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajbhskrn&theme=radical&hide=html,css&layout=donut&size_weight=0.2&count_weight=0.8&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
+![GitHub Streak](https://streak-stats.demolab.com?user=soorajbhaskaran&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajbhaskaran&theme=radical&hide=html,css&layout=donut&size_weight=0.2&count_weight=0.8&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
 
 <br>
-<img src="https://gpvc.arturio.dev/soorajbhskrn" alt="profile views"> 
+<img src="https://gpvc.arturio.dev/soorajbhaskaran" alt="profile views"> 
 
 
